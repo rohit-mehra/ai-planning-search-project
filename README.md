@@ -8,15 +8,15 @@ This project includes skeletons for the classes and functions needed to solve de
 
   - READ: applicable portions of the Russel/Norvig AIMA text
   - GIVEN: problems defined in classical PDDL (Planning Domain Definition Language)
-  - TODO: Implement the Python methods and functions as marked in `my_air_cargo_problems.py`
-  - TODO: Experiment and document metrics
+  - DONE: Implement the Python methods and functions as marked in `my_air_cargo_problems.py`
+  - DONE: Experiment and document metrics
 
 - Part 2 - Domain-independent heuristics:
 
   - READ: applicable portions of the Russel/Norvig AIMA text
-  - TODO: Implement relaxed problem heuristic in `my_air_cargo_problems.py`
-  - TODO: Implement Planning Graph and automatic heuristic in `my_planning_graph.py`
-  - TODO: Experiment and document metrics
+  - DONE: Implement relaxed problem heuristic in `my_air_cargo_problems.py`
+  - DONE: Implement Planning Graph and automatic heuristic in `my_planning_graph.py`
+  - DONE: Experiment and document metrics
 
 - Part 3 - Written Analysis
 
